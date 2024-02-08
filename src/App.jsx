@@ -1,5 +1,3 @@
-
-
 import Header from './components/Header/Header';
 import ConceptsList from './components/ConceptsList';
 import Examples from './components/Examples';
